@@ -1,0 +1,18 @@
+:root{
+    --g59: #212329;
+    --lg59: #b1b1b1;
+    --white: #fff;
+    --pink: #c61063;
+    --pinklight: #ff80ab;
+    --violet: #8800C7;
+    --lightviolet:#A44CD3;
+}
+
+
+html{
+    background-color: var(--g59);
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
