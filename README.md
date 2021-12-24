@@ -1,1 +1,3 @@
 # Polygon-Pictures
+### About this
+It's just simple image management, and it's a "wip project" that maybe I put in my main account...
